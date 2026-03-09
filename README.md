@@ -38,7 +38,7 @@ pipeline.yml
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/devops-cicd-pipeline-demo.git
+git clone https://github.com/sebastiantnalu-crypto/devops-cicd-pipeline-demo.git
 
 cd devops-cicd-pipeline-demo
 
